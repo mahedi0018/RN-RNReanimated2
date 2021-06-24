@@ -1,0 +1,55 @@
+<svg width="360" height="640" viewBox="0 0 360 640" fill="none" xmlns="http://www.w3.org/2000/svg">
+<style>.Rectangle_2_119 {
+	animation: 1s linear 0s 1 normal forwards running Rectangle_2_119;
+	transform-box: fill-box;
+	transform-origin: 0% 0%;
+	transform: translateX(200px) translateY(107px);
+}
+@keyframes Rectangle_2_119 {
+	0% {
+		transform: translateX(0px) translateY(126.5px) rotate(0deg);
+		width: 60px;
+		height: 45px;
+		fill: rgba(196,196,196,1);
+	}
+	100% {
+		transform: translateX(200px) translateY(107px) rotate(0deg);
+		width: 60px;
+		height: 45px;
+		fill: rgba(196,196,196,1);
+	}
+}.Ellipse_1_940 {
+	animation: 1s linear 0s 1 normal forwards running Ellipse_1_940;
+	transform-box: fill-box;
+	transform-origin: 50% 0%;
+	transform: translateX(192px) translateY(400px);
+}
+@keyframes Ellipse_1_940 {
+	0% {
+		transform: translateX(192px) translateY(163px);
+	}
+	100% {
+		transform: translateX(192px) translateY(433px);
+	}
+}.Polygon_1_972 {
+	animation: 1s linear 0s 1 normal forwards running Polygon_1_972;
+	transform-box: fill-box;
+	transform-origin: 50% 50%;
+	transform: translateX(61px) translateY(243px);
+}
+@keyframes Polygon_1_972 {
+	0% {
+		transform: translateX(61px) translateY(243px) rotate(0deg);
+	}
+	100% {
+		transform: translateX(61px) translateY(243px) rotate(-360deg);
+	}
+}
+</style><g clip-path="url(#clip_0_695)">
+<rect width="360" height="640" fill="white"/>
+<rect width="60" height="45" fill="#C4C4C4" class="Rectangle_2_119"/>
+<ellipse rx="35" ry="33" fill="#C4C4C4" class="Ellipse_1_940"/>
+<path d="M45.5 0L90.9663 76.5H0.0336647L45.5 0Z" fill="#C4C4C4" class="Polygon_1_972"/></g>
+<defs><clipPath id="clip_0_695"><rect width="360" height="640"/></clipPath>
+</defs>
+</svg>

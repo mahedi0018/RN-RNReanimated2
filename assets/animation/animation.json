@@ -1,0 +1,90 @@
+{
+  "_2194_32_______1": {
+    "keyframes": {
+      "x": [
+        {
+          "property": "x",
+          "ms": 0,
+          "value": 40,
+          "easing": "linear",
+          "easingCurve": [
+            0,
+            0,
+            1,
+            1
+          ]
+        },
+        {
+          "property": "x",
+          "ms": 1000,
+          "value": 300,
+          "easing": "easeOut",
+          "easingCurve": [
+            0,
+            0,
+            1,
+            1
+          ]
+        }
+      ],
+      "y": [
+        {
+          "property": "y",
+          "ms": 0,
+          "value": 313,
+          "easing": "linear",
+          "easingCurve": [
+            0,
+            0,
+            1,
+            1
+          ]
+        },
+        {
+          "property": "y",
+          "ms": 1000,
+          "value": 100,
+          "easing": "easeInOut",
+          "easingCurve": [
+            0,
+            0,
+            1,
+            1
+          ]
+        }
+      ],
+      "rotation": [
+        {
+          "property": "rotation",
+          "ms": 0,
+          "value": 0,
+          "easing": "linear",
+          "easingCurve": [
+            0,
+            0,
+            1,
+            1
+          ]
+        },
+        {
+          "property": "rotation",
+          "ms": 1000,
+          "value": 90,
+          "easing": "easeInOut",
+          "easingCurve": [
+            0,
+            0,
+            1,
+            1
+          ]
+        }
+      ]
+    },
+    "anchor": {
+      "x": "CENTER",
+      "y": "BOTTOM"
+    },
+    "version": "1.0.0",
+    "type": "standalone"
+  }
+}
